@@ -1,8 +1,7 @@
 #include<iostream>
 using namespace std;
 
-#define MAX_SIZE 101
-
+#define MAX_SIZE 100
 int A[MAX_SIZE];
 int top=-1;
 
@@ -51,10 +50,8 @@ void print()
 }
 int main()
 {
-    push(2);
-    print();
-    push(3);
-    print();
+    push(2);  print();
+    push(3);    print();
     push(4);
     print();
     push(5);
