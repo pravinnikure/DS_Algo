@@ -59,8 +59,7 @@ int main()
     print();
     push(5);
     print();
-    pop();
-    print();
+    pop();    print();
     Top();
     print();
     isEmpty();  
