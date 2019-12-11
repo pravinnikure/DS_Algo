@@ -63,7 +63,7 @@ int main()
     print();
     Top();
     print();
-    isEmpty();    print();
-        
-        return 0;
+    isEmpty();  
+    print();  
+    return 0;
 }
