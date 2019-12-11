@@ -50,10 +50,8 @@ void print()
 }
 int main()
 {
-    push(2);
-    print();
-    push(3);
-    print();
+    push(2);  print();
+    push(3);    print();
     push(4);
     print();
     push(5);
